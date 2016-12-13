@@ -1,0 +1,19 @@
+{
+  "name": "express-zhibodude",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infi000/express-zhibodude.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/infi000/express-zhibodude/issues"
+  },
+  "homepage": "https://github.com/infi000/express-zhibodude#readme"
+}
